@@ -1,5 +1,5 @@
 node_modules
 .idea/
 
-/1-getting-started
-/2-advanced-examples
+cypress/integration/1-getting-started
+cypress/integration/2-advanced-examples
