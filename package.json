@@ -1,0 +1,23 @@
+{
+  "name": "goodday",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaMarkel/goodday.git"
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaMarkel/goodday/issues"
+  },
+  "homepage": "https://github.com/MariaMarkel/goodday#readme"
+}
